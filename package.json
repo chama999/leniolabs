@@ -1,0 +1,27 @@
+{
+  "dependencies": {
+    "cypress": "^13.8.1"
+  },
+  "name": "leniolabs",
+  "version": "1.0.0",
+  "description": "1. git clone https://github.com/chama999/leniolabs\r 2. cd leniolabs\r 3. npm install\r 4. npm test",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "npx cypress run",
+    "cypress:open": "npx cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chama999/leniolabs.git"
+  },
+  "keywords": [
+    "gh"
+  ],
+  "author": "gh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chama999/leniolabs/issues"
+  },
+  "homepage": "https://github.com/chama999/leniolabs#readme"
+}
